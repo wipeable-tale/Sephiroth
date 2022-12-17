@@ -16,6 +16,13 @@ https://www.netone.co.jp/knowledge-center/netone-blog/20220314-1/
 ### Cloud Speech-to-Text Document
 https://cloud.google.com/speech-to-text/docs/async-recognize?hl=ja
 
+### デスクトップアプリ
+https://sync-g.co.jp/sjobs/python-desktop/
+
+### 音声感情判定ライブラリ
+https://qiita.com/keki/items/c0bea07274fe41a14978
+https://qiita.com/konitech913/items/041e3f90267ae27c2a9d
+
 #### メモ
 営業と顧客の会話を非同期に文字として、
 サーバに上げていく。テキストファイルを作成する？
